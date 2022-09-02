@@ -45415,7 +45415,7 @@ A.vU.prototype={
 J(a){var s,r=A.a([],t.ww)
 r.push(new A.f_("/truck","What has four wheels and flies?","A garbage truck."))
 r.push(new A.f_("/noodle","What do you call a fake noodle?","An impasta."))
-r.push(new A.f_("/lambo","What kind of car does a sheep like to drive?","A lamborghini."))
+r.push(new A.f_("/lambo","What kind of a car does a sheep like to drive?","A lamborghini."))
 s=A.y(t.N,t.hw)
 s.l(0,"/",new A.L2(r))
 B.b.X(r,new A.L3(s))
