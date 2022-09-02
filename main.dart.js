@@ -45419,7 +45419,7 @@ r.push(new A.f_("/lambo","What kind of car does a sheep like to drive?","A lambo
 s=A.y(t.N,t.hw)
 s.l(0,"/",new A.L2(r))
 B.b.X(r,new A.L3(s))
-return new A.ou(s,"DAD jokes",null)}}
+return new A.ou(s,"DAD Jokes",null)}}
 A.L2.prototype={
 $1(a){return new A.kS(this.a,null)},
 $S:285}
@@ -49030,7 +49030,7 @@ B.DM=new A.l(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.EW=new A.cJ(B.Dw,B.EF,B.Eo,B.Cg,B.Eg,B.Dp,B.EJ,B.CH,B.D8,B.Eb,B.Cb,B.Eq,B.Ee,B.E8,B.DM)
 B.EX=new A.z1(1,"longestLine")
 B.EY=new A.jM("Back",null,null,null,null)
-B.rZ=new A.jM("DAD jokes",null,null,null,null)
+B.rZ=new A.jM("DAD Jokes",null,null,null,null)
 B.Hh=new A.Sg(0,"system")
 B.EZ=new A.q5(null)
 B.dd=new A.z5(0,"clamp")
